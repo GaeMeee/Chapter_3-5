@@ -78,7 +78,7 @@ extension WriteTodoViewController {
         }
         
         todoRepository.addTask(todoTask)
-        todoRepository.addCoreData(todoTask)
+        
         
         self.navigationController?.popViewController(animated: true)
     }

@@ -96,7 +96,6 @@
 			children = (
 				D60F1CB22AB17ADE00C3D15B /* AppDelegate.swift */,
 				D60F1CB42AB17ADE00C3D15B /* SceneDelegate.swift */,
-				D65AFCDF2ABC6CC6004FFB79 /* New Group */,
 				D67FCB912AB8634000033157 /* Error */,
 				D67FCB902AB8633600033157 /* Service */,
 				D60F1CD12AB17CD900C3D15B /* Model */,
@@ -119,7 +118,6 @@
 				D60F1CCF2AB17BD200C3D15B /* CompleteTodoViewController.swift */,
 				D669330F2AB2A38F002BE8D2 /* CatImageViewController.swift */,
 				D65AFCBC2ABC12EB004FFB79 /* MyProfile */,
-				D65AFCBB2ABC12D9004FFB79 /* Collection */,
 				D67FCB8F2AB8443300033157 /* Custom */,
 			);
 			path = Controller;
@@ -143,13 +141,6 @@
 				D60F1CD42AB17E4A00C3D15B /* TodoRepository.swift */,
 			);
 			path = Model;
-			sourceTree = "<group>";
-		};
-		D65AFCBB2ABC12D9004FFB79 /* Collection */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Collection;
 			sourceTree = "<group>";
 		};
 		D65AFCBC2ABC12EB004FFB79 /* MyProfile */ = {
@@ -178,13 +169,6 @@
 				D60F1CCD2AB17BA500C3D15B /* TodoTableViewCell.swift */,
 			);
 			path = Todo;
-			sourceTree = "<group>";
-		};
-		D65AFCDF2ABC6CC6004FFB79 /* New Group */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "New Group";
 			sourceTree = "<group>";
 		};
 		D67FCB8F2AB8443300033157 /* Custom */ = {
